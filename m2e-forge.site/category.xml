@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/m2e-forge.feature_0.0.1.qualifier.jar" id="m2e-forge.feature" version="0.0.1.qualifier">
+     <category name="m2e-forge"/>
+   </feature>
+   <feature url="features/m2e-forge.feature.source_0.0.1.qualifier.jar" id="m2e-forge.feature.source" version="0.0.1.qualifier">
+     <category name="m2e-forge"/>
+   </feature>
+   <category-def name="m2e-forge" label="M2E Integration for Forge Addons"/>
+</site>
